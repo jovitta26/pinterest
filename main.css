@@ -1,0 +1,28 @@
+*{
+padding:0;
+ font-family: sans-serif;
+ background-color: red;
+}
+
+.contenedor {
+  width: 1000px;
+  height: 800px;
+  border: 1px solid black;
+  display: flex;
+}
+ .img {
+   width: 200px;
+   height: 150px;
+   float: left;
+   margin: 2%;
+ }
+
+#caja1 {
+      width: 400px;
+      height: 300px;
+      left: 150px;
+
+}
+#caja2{
+
+ }
